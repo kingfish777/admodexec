@@ -58,4 +58,4 @@ for annotation in pa.model.annotations:
    print(annotation)
 
 pa.export_model('sbml', file_name='model.sbml')
-
+ 
