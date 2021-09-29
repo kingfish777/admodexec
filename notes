@@ -1,0 +1,8 @@
+
+
+in REACH folder: 
+
+ > sbt 'runMain org.clulab.reach.export.server.ApiServer'
+
+
+
